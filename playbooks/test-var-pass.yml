@@ -1,0 +1,7 @@
+- hosts: localhost
+  become: no
+  vars_files:
+  - provision.yml
+  roles:
+          - test-var-pass-debug
+

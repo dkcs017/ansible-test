@@ -1,0 +1,11 @@
+---
+var1: "this is 1st var"
+var2: "this is 2nd var"
+var3: 8000
+var4: "this is 3rd var"
+var5: abcdef
+
+api_version: v1
+kind: Deployments
+name: nginx
+container_name: proxy-server

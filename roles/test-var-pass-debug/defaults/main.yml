@@ -1,0 +1,6 @@
+---
+# defaults file for test-var-pass-debug
+
+        var1: "first default value"
+        var2: 2
+        var3: ""
